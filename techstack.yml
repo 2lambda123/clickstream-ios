@@ -2,7 +2,7 @@ repo_name: 2lambda123/clickstream-ios
 report_id: 7b17ebc7402a6798a8f721fbf226aad7
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:55:05+00:00'
+timestamp: '2024-02-29T19:17:25+00:00'
 requested_by: 2lambda123
 provider: github
 branch: main
@@ -31,7 +31,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/clickstream-ios
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
